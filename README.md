@@ -1,0 +1,1 @@
+Git Fetching is an Android application that allows users to search for GitHub repositories by username and download them to their device.
